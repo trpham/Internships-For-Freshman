@@ -55,3 +55,7 @@ https://www.zintellect.com/Posting/Details/2828
 The City and County of San Francisco is seeking student interns for various engineering and architecture disciplines, to provide support to in-house Engineering · Architecture · Landscape Architecture · Planning · Surveying · GIS · IT staff. The City Departments that employ interns are the Airport Commission (SFO), Department of Building Inspection (DBI), Department of Technology (DT), Municipal Transportation Agency (MTA), Port of San Francisco (Port), San Francisco Public Utilities Commission (SFPUC), Public Works, and Recreation and Park Department (RPD). Interns will gain on-the-job experience under the guidance of experienced professional engineers, architects, planners and surveyors. Interns will participate in various activities in the respective City Departments.
 
 http://sfstudentintern.org/
+
+Others:
+https://docs.google.com/document/d/1n7vxbL0Wjt58Q6M73b3leNjIYSkUeej1E8afQF86ZeQ/edit
+https://github.com/j-delaney/easy-application
