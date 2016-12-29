@@ -1,1 +1,2 @@
-# Internships-for-Freshmen-Community-College-Students
+# Internships for Freshman / Community College Students
+
